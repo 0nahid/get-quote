@@ -23,7 +23,7 @@ body {
   max-width: 900px;
   padding: 20px 30px;
   border-radius: 10px;
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.5);
   box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -81,17 +81,21 @@ button:active {
 .fa-twitter {
   font-size: 1.5rem;
 }
-footer{
+
+footer {
   padding: 2%;
 }
-footer p{
+
+footer p {
   color: #888;
 }
-.dev a{
+
+.dev a {
   text-decoration: none;
   color: rgb(255, 0, 0);
   font-size: 1.1rem;
 }
+
 /* Loader */
 .loader {
   border: 16px solid #f3f3f3;
